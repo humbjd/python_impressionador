@@ -46,3 +46,4 @@ for venda in vendas:
         maior_venda = venda[1]
         melhor_vendedor = venda[0]
 print('O melhor vendedor foi {} com {} vendas'.format(melhor_vendedor, maior_venda))
+
